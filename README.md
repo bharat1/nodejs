@@ -1,0 +1,1 @@
+checkdatatype in javascript
